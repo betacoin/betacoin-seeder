@@ -1,7 +1,7 @@
-cypherfunk-seeder
+betacoin-seeder
 ===============
 
-Dogecoin-seeder is a crawler for the Dogecoin network, which exposes a list
+betacoin-seeder is a crawler for the Betacoin network, which exposes a list
 of reliable nodes via a built-in DNS server.
 
 Features:
